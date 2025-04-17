@@ -1,365 +1,75 @@
-Name : Nadine Sivalingam 
-Student Number : ST10495008 
-Assignment : DIY SOLAR WATER PUMP SYSTEM 
-Installation & Maintenance Guide 
-TABLE OF CONTENTS 
-1. Introduction 
-2. Overview of Solar Water Pump Systems - Components and Their Functions - Types of Solar Water Pump Systems - Benefits for Small-Scale Farmers 
-3. Before You Begin - Tools and Materials Required - Safety Equipment Needed - Skills Required 
-4. Step-by-Step Installation Instructions - Step 1: Site Selection and Preparation - Step 2: Setting Up the Solar Panels - Step 3: Assembling the Pump and Controller - Step 4: Connecting the Water Pump to Water Source - Step 5: Connecting the Power System - Step 6: Testing the System 
-5. Safety Precautions - Handling Solar Panels - Electrical Safety - Water Safety - Site Safety 
-6. Practical Applications 
-- Irrigating a Vegetable Garden - Livestock Watering Systems - Household Water Supply 
-7. Maintenance Tips - Daily and Weekly Checks - Monthly Maintenance - Seasonal Maintenance - Troubleshooting Common Issues 
-8. Frequently Asked Questions 
-9. Glossary of Terms 
-10. References and Additional Resources 
-1. INTRODUCTION 
-Water accessibility remains one of the greatest challenges facing small-scale 
-farmers in rural South Africa. Traditional methods of water extraction and 
-distribution often require significant human labor or expensive fossil fuels. Solar 
-water pump systems offer an affordable, sustainable alternative that harnesses 
-renewable energy to improve agricultural productivity and livestock management. 
-This guide has been specifically designed for farmers with varying levels of 
-technical knowledge and literacy. Through clear instructions, illustrations, and 
-practical examples, we aim to empower you to install, operate, and maintain your 
-own solar water pump system. 
-Why Solar Water Pumps? - No fuel costs - uses free energy from the sun - Environmentally friendly - produces no emissions - Low maintenance - fewer moving parts than diesel pumps - Long lifespan - typically 15-20 years for panels, 5-10 years for pumps - Works when you need it most - provides more water on sunny days when crops 
-need more water 
-[THIS IS FIGURE: Solar water pump in operation at a small farm, showing panels, 
-pump, and irrigated field]   
-*Figure 1: Solar water pump system providing irrigation to a vegetable garden. 
-Source: GreenFuture Initiative field installation, Eastern Cape, 2024* 
-2. OVERVIEW OF SOLAR WATER PUMP SYSTEMS 
-Components and Their Functions 
-A solar water pump system consists of several key components working together: 
-1. Solar Panels (Photovoltaic or PV Panels) - Convert sunlight into electricity - Usually mounted on a frame or pole - Generate DC (Direct Current) electricity - Available in different sizes (measured in Watts) 
-2. Solar Pump Controller - Regulates electricity flow between panels and pump - Protects pump from damage due to voltage fluctuations - Often includes features like low-water protection - May have indicators showing system status 
-3. Water Pump - Converts electrical energy into mechanical energy to move water - Available in different types (submersible or surface) - Capacity measured in flow rate (liters per hour) and head (height) 
-4. Pipes and Fittings - Transport water from source to destination - Usually made of PVC or polyethylene - Must be correctly sized for your pump 
-5. Wiring and Connectors - Connect the electrical components - Must be waterproof and properly rated for outdoor use 
-6. Water Storage (Optional) - Tank or reservoir to store pumped water - Allows for water use when sun isn't shining 
-7. Mounting Structure - Holds solar panels at proper angle - Must be strong enough to withstand winds - Can be fixed or adjustable 
-[THIS IS FIGURE: Labeled diagram showing all components of a solar water pump 
-system and how they connect to each other]   
-*Figure 2: Components of a solar water pump system. Image source: Rural Solar 
-Technical Handbook, 2023* 
-Types of Solar Water Pump Systems 
-There are two main types of solar water pump systems: 
-1. Surface Pump Systems - Pump is located above the water source - Suitable for shallow water sources (springs, streams, shallow wells) - Typically easier to install and maintain - Generally less expensive than submersible systems - Can lift water from depths up to 7 meters 
-2. Submersible Pump Systems - Pump is placed inside the water source - Suitable for deep water sources (boreholes, deep wells) - More efficient as they push rather than pull water - Can lift water from depths of 10-200+ meters depending on model - Require more specialized installation 
-This guide primarily focuses on surface pump systems, which are most appropriate 
-for the majority of small-scale farming applications in South Africa. 
-[THIS IS FIGURE: Side-by-side comparison of surface pump and submersible pump 
-installations]   
-*Figure 3: Surface pump (left) vs. submersible pump (right) installations. Image 
-source: Solar Pumping Standards, Africa Development Bank, 2023* 
-Benefits for Small-Scale Farmers 
-Solar water pump systems offer numerous advantages for small-scale farmers: - Cost Savings: After initial investment, the energy source (sunlight) is free - **Reliability:** No dependence on fuel deliveries or electricity grid - **Sustainability:** Environmentally friendly with no emissions - **Low Maintenance:** Fewer moving parts than traditional pumps - **Scalability:** Can start small and expand the system over time - **Versatility:** Can be used for multiple purposes (irrigation, livestock, 
-household) - **Independence:** Reduces reliance on external resources - **Long Lifespan:** Quality components can last many years with proper care 
-[THIS IS FIGURE: Chart showing cost comparison between solar, diesel, and 
-electric pumps over 10 years]   
-*Figure 4: 10-year cost comparison between solar, diesel and electric pumps. Source: 
-Renewable Energy for Agriculture, FAO, 2024* 
-<a name="before-you-begin"></a> 
-## 3. BEFORE YOU BEGIN 
-<a name="tools-materials"></a> 
-### Tools and Materials Required 
-**Basic Tools:** - Spade and pickaxe for site preparation - Measuring tape (at least 30m) - Spirit level - Hammer - Pliers (standard and water pump) - Screwdriver set (flathead and Phillips) - Adjustable wrench - Pipe cutter or hacksaw 
-- Wire cutter/stripper - Teflon tape - Compass (for orientation) - Multimeter (if available) 
-**Materials:** - Solar panels with mounting frame - Solar pump controller - Water pump (surface or submersible based on your needs) - PVC or polyethylene pipes (diameter specified for your pump) - Pipe fittings (elbows, connectors, valves) - Waterproof electrical wire (solar cable) - Waterproof wire connectors - Cable ties - Pipe clamps - Concrete mix (for mounting structure foundation) - Water storage tank (optional) 
-[THIS IS FIGURE: Photograph showing all required tools and materials laid out 
-and labeled]   
-*Figure 5: Complete set of tools and materials for installation. Source: GreenFuture 
-Initiative Technical Resource Center* 
-<a name="safety-equipment"></a> 
-### Safety Equipment Needed - Gloves (work gloves and rubber insulating gloves) 
-- Safety glasses - Sun protection (hat, sunscreen) - Closed-toe shoes - First aid kit 
-<a name="skills"></a> 
-### Skills Required 
-This installation can be completed by individuals without specialized technical 
-training. You will need: - Basic understanding of tools - Ability to follow step-by-step instructions - Basic measuring skills - Ability to dig and prepare a level site - Basic understanding of water flow 
-If you find certain steps challenging, consider asking a friend or neighbor with some 
-construction or plumbing experience to assist. 
-<a name="installation"></a> 
-## 4. STEP-BY-STEP INSTALLATION INSTRUCTIONS 
-<a name="site-selection"></a> 
-### Step 1: Site Selection and Preparation 
-**1.1 Choose the Solar Panel Location:** - Select an open area with **NO SHADE** between 9am and 3pm - Face panels NORTH for maximum sun exposure (in Southern Hemisphere) - Avoid areas prone to flooding 
-- Choose a spot within 20 meters of your water source if possible - Ensure the location is secure from animals and theft 
-**1.2 Choose the Pump Location:** - For surface pumps: As close to water source as possible while staying dry - For submersible pumps: Ensure the borehole or well is clean and of sufficient 
-diameter 
-**1.3 Prepare the Solar Panel Mounting Site:** - Clear vegetation and obstacles - Mark out a level area slightly larger than your solar array - For ground mounts: Dig holes for support posts (typically 50-60cm deep) - For roof mounts: Ensure roof can support the weight and has suitable attachment 
-points 
-[THIS IS FIGURE: Diagram showing ideal solar panel placement with sun path, 
-and proper orientation]   
-*Figure 6: Optimal solar panel placement and orientation. Source: Solar Energy 
-Foundation Africa, 2023* 
-**1.4 Prepare Path for Pipes and Wires:** - Plan the shortest route for pipes from pump to destination - Plan the shortest route for wires from panels to pump - For buried pipes/wires, dig trenches at least 30cm deep - For above-ground pipes, plan support points every 1-2 meters 
-<a name="solar-panel-setup"></a> 
-### Step 2: Setting Up the Solar Panels 
-**2.1 Assemble the Mounting Structure:** - Follow the specific instructions included with your mounting structure - For ground mounts: Set support posts in holes with concrete mixture - Allow concrete to cure for at least 24 hours before mounting panels - Ensure the structure is level using a spirit level - The ideal angle for the panels is equal to your location's latitude 
-**2.2 Mount the Solar Panels:** - Carefully unpack the solar panels - IMPORTANT: Never touch the front surface with bare hands - Attach panels to the mounting structure using the provided hardware - Tighten bolts firmly but do not overtighten - Leave a small gap (about 1cm) between panels for expansion 
-**2.3 Connect the Solar Panels:** - If using multiple panels, connect them according to your controller requirements: 
-* Series connection: Connect positive (+) terminal of one panel to negative (-) 
-terminal of the next 
-* Parallel connection: Connect all positive terminals together and all negative 
-terminals together - Use waterproof MC4 connectors - Secure all cables to the mounting structure using cable ties - Do not connect to the controller yet 
-[THIS IS FIGURE: Diagram showing series vs parallel connection methods for solar 
-panels]   
-*Figure 7: Series vs parallel solar panel connections. Source: GreenFuture Initiative 
-Technical Manual* 
-<a name="pump-assembly"></a> 
-### Step 3: Assembling the Pump and Controller 
-**3.1 Unpack and Inspect the Pump:** - Remove pump from packaging - Check for any visible damage - Confirm all parts are included - Read manufacturer's instructions 
-**3.2 Mount the Controller:** - Select a location for the controller that is: 
-* Protected from direct sun and rain 
-* Close to the solar panels 
-* Easily accessible for monitoring 
-* Secure from tampering - Mount the controller to a post, wall, or inside a protective box - Ensure all switches are in the OFF position 
-**3.3 Prepare the Pump:** - For surface pumps: 
-* Place pump on firm, level surface near water source 
-* Consider building a simple shelter to protect from elements - For submersible pumps: 
-* Attach safety rope to pump 
-* Connect output pipe to pump before lowering 
-[THIS IS FIGURE: Illustration showing proper mounting of controller with labeled 
-components]   
-*Figure 8: Proper controller mounting and protection. Source: GreenFuture 
-Initiative Installation Guide* 
-<a name="pump-connection"></a> 
-### Step 4: Connecting the Water Pump to Water Source 
-**4.1 Prepare the Intake:** - Clean the water source area if possible - For surface water: Create a small depression to ensure pump intake stays 
-underwater - For wells/boreholes: Ensure intake is at least 30cm above bottom to avoid 
-sediment 
-**4.2 Install Inlet Pipe:** - For surface pumps: 
-* Attach strainer/filter to inlet pipe 
-* Extend inlet pipe into water source 
-* Ensure pipe remains submerged even at lowest water level 
-* Prime the pump if required (fill pump and inlet pipe with water) - For submersible pumps: 
-* Lower pump carefully into borehole/well using safety rope 
-* Do not let pump touch bottom 
-**4.3 Install Outlet Pipe:** 
-- Connect pipe to pump outlet - Use Teflon tape on all threaded connections - Install a non-return valve if not built into pump - Run pipe to storage tank or irrigation system - Include a valve to control flow - Support pipe every 1-2 meters if above ground 
-[THIS IS FIGURE: Detailed cross-section showing pump connection to water source 
-with labeled parts]   
-*Figure 9: Proper water source connection for surface pump. Source: Rural Water 
-Supply Network, 2022* 
-<a name="power-connection"></a> 
-### Step 5: Connecting the Power System 
-**5.1 Prepare the Wiring:** - Measure distance from panels to controller - Cut wires to appropriate length plus 1 meter extra - Use proper gauge wire based on distance and current - Label positive (+) and negative (-) wires 
-**5.2 Connect Controller to Panels:** - IMPORTANT: Cover solar panels with opaque material before connecting - Connect panel wires to controller input terminals: 
-* Connect positive (+) wire to positive terminal 
-* Connect negative (-) wire to negative terminal - Double-check connections before proceeding 
-**5.3 Connect Controller to Pump:** - Connect controller output to pump: 
-* Connect positive (+) controller output to positive pump wire 
-* Connect negative (-) controller output to negative pump wire - Secure all connections and ensure they are waterproof - Do not turn on system yet 
-[THIS IS FIGURE: Wiring diagram showing connections between solar panels, 
-controller, and pump]   
-*Figure 10: Electrical connection diagram. Source: GreenFuture Initiative Technical 
-Manual* 
-<a name="testing"></a> 
-### Step 6: Testing the System 
-**6.1 Final Inspection:** - Check all mechanical connections are tight - Verify all pipes are properly supported - Confirm all electrical connections are secure and waterproof - Ensure pump intake is properly positioned in water source 
-**6.2 Initial Start-up:** - Remove covering from solar panels - Turn controller to ON position - Watch and listen for pump operation - Check for water flow within 1-2 minutes 
-- Check all connections for leaks 
-**6.3 System Testing:** - Allow system to run for 15-30 minutes - Monitor water flow rate - Check for unusual noise or vibration - Verify controller indicators show normal operation - Adjust any flow control valves as needed 
-**6.4 Shutdown Test:** - Cover solar panels or turn off controller - Verify pump stops operating - Uncover panels or turn controller back on - Verify pump restarts properly 
-[THIS IS FIGURE: Photo showing system testing with captions identifying key 
-check points]   
-*Figure 11: Testing a newly installed solar pump system. Source: GreenFuture 
-Initiative Field Manual* 
-<a name="safety"></a> 
-## 5. SAFETY PRECAUTIONS 
-<a name="handling-panels"></a> 
-### Handling Solar Panels - **Always carry panels by their frame**, never by the wires or junction box - Work with a partner when moving large panels - Keep panels covered until final electrical connections are made - Avoid dropping or placing heavy objects on panels - Never step or sit on solar panels, even when covered - Handle panels carefully as broken glass can cause injuries 
-[THIS IS FIGURE: Illustration showing correct and incorrect ways to handle solar 
-panels]   
-*Figure 12: Proper handling of solar panels. Source: Solar Safety Guidelines, 2023* 
-<a name="electrical-safety"></a> 
-### Electrical Safety - **Never touch bare wires** while system is operating - Always cover panels before working on electrical connections - Use insulated tools when possible - Wear rubber gloves when working with electrical components - Keep all connections dry and waterproof - Never connect or disconnect under load (when system is running) 
-- Install lightning protection if possible in areas with frequent storms 
-**WARNING:** Solar panels produce electricity when exposed to light. They 
-cannot be "turned off" - covering them is the only way to stop electricity production. 
-[THIS IS FIGURE: Warning signs and proper electrical safety gear illustrations]   
-*Figure 13: Electrical safety equipment. Source: Rural Electrification Safety 
-Manual* 
-<a name="water-safety"></a> 
-### Water Safety - Ensure all electrical components are kept away from water - Use waterproof connectors for all outdoor connections - Never operate electrical equipment while standing in water - Ensure pump cannot run dry (without water) which can cause damage - Install dry-run protection if not built into your controller - Protect water source from contamination during installation 
-<a name="site-safety"></a> 
-### Site Safety - Secure the installation area from children and animals - Mark any trip hazards with bright colors - Cover trenches when not working on them - Wear appropriate protective gear (gloves, boots, hat, eye protection) - Have first aid kit available during installation 
-- Work with a partner when possible - Avoid installation during storms or high winds 
-[THIS IS FIGURE: Illustration showing proper site safety measures including 
-protective equipment]   
-*Figure 14: Site safety practices. Source: GreenFuture Initiative Safety Manual* 
-<a name="applications"></a> 
-## 6. PRACTICAL APPLICATIONS 
-<a name="irrigating-garden"></a> 
-### Irrigating a Vegetable Garden 
-Solar water pumps are ideal for irrigation, providing a reliable water source without 
-ongoing fuel costs. 
-**Setting Up a Basic Drip Irrigation System:** 
-1. **Calculate Water Needs:** - Most vegetables need 6-10mm of water per day during growing season - Example: A 100m² garden needs approximately 600-1000 liters per day 
-2. **Components Needed:** - Main pipe from pump (usually 25mm or 32mm diameter) - Secondary distribution pipes (usually 16mm diameter) - Drip lines with emitters (usually 4mm or 8mm diameter) - Filter (essential to prevent clogging) - Pressure reducer (if pump pressure exceeds drip system requirements) 
-- Control valves 
-3. **Installation Steps:** - Connect filter to pump outlet - Lay main pipe along edge of garden - Connect secondary pipes across garden at 1-3m intervals - Attach drip lines along crop rows - Install control valves to manage different zones 
-[THIS IS FIGURE: Diagram of drip irrigation layout for vegetable garden with 
-components labeled]   
-*Figure 15: Simple drip irrigation layout for small vegetable garden. Source: 
-Agricultural Water Management Guide, 2023* 
-**Irrigation Schedule Example:** - Morning irrigation: 7:00-9:00 AM (when sun starts powering system) - Duration depends on season and crop needs - Adjust based on plant appearance and soil moisture 
-<a name="livestock-watering"></a> 
-### Livestock Watering Systems 
-Solar pumps can reliably provide water for livestock, reducing labor and ensuring 
-constant availability. 
-**Basic Livestock Watering System:** 
-1. **Components Needed:** - Storage tank (sized for 2-3 days of livestock needs) - Float valve in tank to prevent overflow - Drinking troughs with float valves - Distribution pipes 
-2. **Water Requirements (Daily):** - Cattle: 40-60 liters per animal - Sheep/Goats: 5-10 liters per animal - Poultry: 0.2-0.5 liters per bird 
-3. **Installation Tips:** - Position storage tank on elevated ground if possible - Place drinking troughs in shaded areas when possible - Install concrete pads under troughs to prevent mud - Fence pump and panels to protect from animals 
-[THIS IS FIGURE: Diagram showing livestock watering system with storage tank, 
-distribution, and multiple water points]   
-*Figure 16: Solar-powered livestock watering system. Source: Livestock 
-Management Guide, Department of Agriculture, 2024* 
-Household Water Supply 
-Solar pumps can also provide water for household use, though additional filtration 
-may be needed for drinking water. 
-Basic Household System: 
-1. Components Needed: - Elevated storage tank (1000-5000 liters) - Pressure tank (optional, for consistent pressure) - Filtration system (if used for drinking) - Distribution pipes to house 
-2. Water Requirements: - Basic needs: 20-50 liters per person per day - Garden and other uses: 100+ liters per day 
-3. Installation Tips: - Tank should be at least 2m above highest water outlet for good pressure - Include overflow pipe on tank - Install shutoff valves to isolate different parts of system - Consider separate tank for drinking water with additional filtration 
-[THIS IS FIGURE: Illustration of household water system showing elevated tank, 
-filtration, and distribution to house]   
-*Figure 17: Solar-powered household water system. Source: Rural Water Supply 
-Guide, 2023* 
-7. MAINTENANCE TIPS 
-Regular maintenance extends system life and prevents costly failures. Most 
-maintenance tasks are simple and require no special tools. 
-Daily and Weekly Checks 
-**Daily Visual Inspection:** - Check water is flowing normally - Listen for unusual pump noises - Ensure panels are not shaded by new growth or debris 
-**Weekly Tasks:** - Clean solar panels with soft cloth and water (early morning or evening) 
-- Check for leaks in all pipes and connections - Ensure pump intake remains properly positioned in water source - Check wire connections for signs of damage or exposure 
-[THIS IS FIGURE: Photo showing proper panel cleaning technique]   
-*Figure 18: Proper solar panel cleaning. Source: GreenFuture Initiative 
-Maintenance Guide* 
-Monthly Maintenance - Check mounting structure for stability - Tighten any loose bolts or connections - Clear vegetation around panels and pump - Clean any filters in the system - Check and clean pump intake screen/filter - Inspect wiring for damage from animals, weather, or UV exposure 
-Seasonal Maintenance 
-**Before Rainy Season:** - Check all waterproof seals and covers - Ensure drainage around panels and equipment - Secure all components against potential flooding 
-**Before Dry Season:** - Check water source levels - Clean entire system thoroughly 
-- Consider adjusting panel angle if using adjustable mounts 
-**Annual Maintenance:** - Check panel mounting for corrosion - Test pump performance against original specifications - Inspect and replace any damaged pipe sections - Test controller functions 
-[THIS IS FIGURE: Calendar illustration showing recommended maintenance 
-schedule by month]   
-*Figure 19: Annual maintenance calendar. Source: GreenFuture Initiative 
-Maintenance Guide* 
-Troubleshooting Common Issues 
-| Problem | Possible Causes | Solutions | 
-|---------|----------------|-----------| 
-| **No water pumping on sunny day** | • Electrical disconnection<br>• Pump 
-failure<br>• Controller issue<br>• Air lock in pump | • Check all wire 
-connections<br>• Clean panel surface<br>• Check controller indicators<br>• 
-Prime pump if required | 
-| **Reduced water flow** | • Partial panel shading<br>• Dirty panels<br>• 
-Clogged filter<br>• Leaking pipes<br>• Worn pump | • Remove shading<br>• 
-Clean panels<br>• Clean/replace filters<br>• Repair leaks<br>• Check for pipe 
-blockage | 
-| **Inconsistent pumping** | • Passing clouds<br>• Controller settings<br>• 
-Varying water levels | • Add water storage<br>• Adjust controller settings<br>• 
-Check water source level | 
-| **Unusual noises** | • Air in system<br>• Pump cavitation<br>• Debris in 
-pump<br>• Pump mounting loose | • Bleed air from system<br>• Check water 
-level is sufficient<br>• Clean pump<br>• Secure pump mounting | 
-| **System stops after working briefly** | • Overheating<br>• Dry running 
-protection engaged<br>• Low water level | • Check pump is submerged<br>• 
-Check for system blockage<br>• Provide shade for pump/controller<br>• Wait for 
-cool-down period | 
-[THIS IS FIGURE: Troubleshooting flowchart diagram with decision points]   
-*Figure 20: Troubleshooting flowchart. Source: GreenFuture Initiative Technical 
-Support* 
-8. FREQUENTLY ASKED QUESTIONS 
-**Q: How much water can my solar pump system provide?**   
-A: This depends on your specific pump, solar panel size, and available sunlight. 
-Most small systems (200-500W) can pump 1,000-10,000 liters per day, depending on 
-pumping depth and sunlight conditions. 
-**Q: Will my pump work on cloudy days?**   
-A: Yes, but with reduced performance. Modern solar pumps can operate with as 
-little as 20% of full sunlight, though they will pump less water. Adding a water 
-storage tank allows you to store excess water from sunny days. 
-**Q: How long will my solar pump system last?**   
-A: With proper maintenance: - Solar panels: 20-25 years - Pump: 5-10 years - Controller: 7-15 years - Mounting structure: 10-20 years 
-**Q: Do I need batteries in my system?**   
-A: No, most basic solar water pumping systems operate without batteries. The 
-pump runs when the sun shines. Adding water storage (tanks) is usually more cost
-effective than adding batteries. 
-**Q: Can I drink the water from my solar pump system?**   
-A: The pump itself doesn't affect water quality. If your water source is safe for 
-drinking, the pumped water will be too. If you're uncertain, add appropriate 
-filtration for drinking water. 
-**Q: What do I do if my water source dries up seasonally?**   
-A: Ensure your intake is positioned at the lowest point of your water source. 
-Consider increasing your water storage capacity to store more water during times of 
-abundance. 
-**Q: Can I move my solar pump system?**   
-A: Yes. While the installation described is semi-permanent, all components can be 
-dismantled and relocated if needed. The solar mounting system is the most difficult 
-part to relocate. 
-**Q: How do I protect my system from theft?**   
-A: Consider these security measures: 
-- Install panels where they are visible from your home - Use anti-theft bolts on panels - Build a simple fence around the system - Remove portable components when away for long periods - Engrave identification on major components 
-**Q: What happens if my pump breaks? Can it be repaired?**   
-A: Most common pump issues can be repaired. GreenFuture Initiative maintains a 
-network of trained technicians throughout the region. Contact our office for 
-assistance. Keep your warranty information accessible. 
-9. GLOSSARY OF TERMS 
-**Ampere (Amp):** Unit of electrical current 
-**Array:** Multiple solar panels connected together 
-**Controller:** Device that regulates power between solar panels and pump 
-**DC (Direct Current):** Type of electrical current produced by solar panels 
-**Flow Rate:** Volume of water pumped per unit of time (liters per hour) 
-**Head:** Vertical distance water needs to be pumped (measured in meters) 
-**Insolation:** Amount of solar radiation reaching an area 
-**Inverter:** Device that converts DC electricity to AC electricity (not typically 
-used in direct solar pumping) 
-**MC4 Connector:** Standard waterproof connector for solar panels 
-**Non-return Valve:** Prevents water from flowing backward through the pump 
-**Photovoltaic (PV):** Technology that converts sunlight directly into electricity 
-**Priming:** Process of removing air from pump and intake pipe 
-**Series Connection:** Connecting solar panels positive to negative to increase 
-voltage 
-**Parallel Connection:** Connecting solar panels positive to positive and negative 
-to negative to increase current 
-**Static Head:** Vertical distance from water source to discharge point 
-**Submersible Pump:** Pump designed to operate underwater 
-**Surface Pump:** Pump that remains above water level and draws water up 
-**Watt (W):** Unit of power (solar panels are rated in Watts) 
-**Watt-peak (Wp):** Maximum power output of a solar panel under ideal conditions 
-10. REFERENCES AND ADDITIONAL RESOURCES 
-**Publications:** 
-1. African Development Bank. (2023). *Solar Pumping Standards for Agricultural 
-Use*. Abidjan, Côte d'Ivoire. 
-2. Department of Energy South Africa. (2024). *Renewable Energy for Small-Scale 
-Agriculture*. Pretoria, South Africa. 
-3. Food and Agriculture Organization (FAO). (2024). *Solar-powered Irrigation 
-Systems: Technical Manual*. Rome, Italy. 
-4. GreenFuture Initiative. (2023). *Technical Installation Guide for Solar Water 
-Pumps*. Cape Town, South Africa. 
-5. International Renewable Energy Agency (IRENA). (2022). *Solar Pumping for 
-Water Supply*. Abu Dhabi, UAE. 
-6. Rural Water Supply Network. (2022). *Solar Pumping Systems for Rural 
-Communities*. St. Gallen, Switzerland. 
-7. Sustainable Energy Africa. (2024). *Renewable Energy Solutions for Rural 
-Development*. Johannesburg, South Africa. 
-8. World Bank Group. (2023). *Solar Water Pumping for Agriculture: Technical 
-Knowledge and Practical Guide*. Washington, D.C., USA. 
-**Websites and Online Resources:** 
-1. GreenFuture Initiative Technical Support: 
-[www.greenfuture.org.za/support](http://www.greenfuture.org.za/support) 
-2. Department of Agriculture, Land Reform and Rural Development: 
-[www.dalrrd.gov.za](http://www.dalrrd.gov.za) 
-3. Global Solar and Water Initiative: [www.groundwater
-africa.org](http://www.groundwater-africa.org) 
-4. Solar Energy Foundation Africa: [www.sefa.org](http://www.sefa.org) 
-**Local Support:** - GreenFuture Initiative Technical Helpline: 080-SOLAR-HELP (080-765-274-357) 
-- Regional Office Locations: See attached list for your nearest support center 
-**Acknowledgments:** 
-This guide was developed by GreenFuture Initiative with support from the 
-Department of Energy, the African Development Bank's Sustainable Energy Fund 
-for Africa, and various community partners throughout South Africa. 
+env:
+ # The name of the main module repository
+ main_project_module: app
+ # The name of the Play Store
+ playstore_name: IIECat
+on:
+#Where release is writen , must match your branch name , I would suggest
+cloning your branch at the end called release so it only builds the final code
+called release
+ push:
+ branches:
+ - 'release'
+ # Allows you to run this workflow manually from the Actions tab
+ workflow_dispatch:
+jobs:
+ build:
+ runs-on: ubuntu-latest
+ steps:
+ - uses: actions/checkout@v3
+ # Set Current Date As Env Variable
+ - name: Set current date as env variable
+ run: echo "date_today=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+ # Set Repository Name As Env Variable
+ - name: Set repository name as env variable
+ run: echo "repository_name=$(echo '${{ github.repository }}' | awk -F '/' '{print
+$2}')" >> $GITHUB_ENV
+ - name: Set Up JDK
+ uses: actions/setup-java@v3
+ with:
+ distribution: 'zulu' # See 'Supported distributions' for available options
+ java-version: '17'
+ cache: 'gradle'
+ - name: Change wrapper permissions
+ run: chmod +x ./gradlew
+ # Run Tests Build
+ - name: Run gradle tests
+ run: ./gradlew test
+ # Run Build Project
+ - name: Build gradle project
+ run: ./gradlew build
+ # Create APK Debug
+ - name: Build apk debug project (APK) - ${{ env.main_project_module }}
+module
+ run: ./gradlew assembleDebug
+ # Create APK Release
+ - name: Build apk release project (APK) - ${{ env.main_project_module }}
+module
+ run: ./gradlew assemble
+ # Create Bundle AAB Release
+ # Noted for main module build [main_project_module]:bundleRelease
+ - name: Build app bundle release (AAB) - ${{ env.main_project_module }}
+module
+ run: ./gradlew ${{ env.main_project_module }}:bundleRelease
+ # Upload Artifact Build
+ # Noted For Output [main_project_module]/build/outputs/apk/debug/
+ - name: Upload APK Debug - ${{ env.repository_name }}
+ uses: actions/upload-artifact@v3
+ with:
+ name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{
+env.repository_name }} - APK(s) debug generated
+ path: ${{ env.main_project_module }}/build/outputs/apk/debug/
+ # Noted For Output [main_project_module]/build/outputs/apk/release/
+ - name: Upload APK Release - ${{ env.repository_name }}
+ uses: actions/upload-artifact@v3
+ with:
+ name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{
+env.repository_name }} - APK(s) release generated
+ path: ${{ env.main_project_module }}/build/outputs/apk/release/
+ # Noted For Output [main_project_module]/build/outputs/bundle/release/
+ - name: Upload AAB (App Bundle) Release - ${{ env.repository_name }}
+ uses: actions/upload-artifact@v3
+ with:
+ name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{
+env.repository_name }} - App bundle(s) AAB release generated
+ path: ${{ env.main_project_module }}/build/outputs/bundle/release/
